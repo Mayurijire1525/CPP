@@ -7,6 +7,7 @@ struct Car{
 	int year;
 	float price;
 	
+	
 };
 
 int main(){
