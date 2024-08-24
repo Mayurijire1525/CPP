@@ -25,8 +25,7 @@ class Employee
        }    
      void display()    
        {    
-           cout<<id <<" "<<name<< " "<<     
-             address->addressLine<< " "<< address->city<< " "<<address->state<<endl;    
+           cout<<id <<" "<<name<< " "<<address->addressLine<< " "<< address->city<< " "<<address->state<<endl;    
        }    
    };   
 int main(void) {  
