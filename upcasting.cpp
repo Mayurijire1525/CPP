@@ -19,4 +19,5 @@ int main(){
 	derive obj;
 	ptr=&obj;
 	ptr->display();
+	
 }
